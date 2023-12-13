@@ -143,8 +143,8 @@
  .wed-logo a{
 }
  .wed-logo a img{
-     width: 250px;
-     padding: 7px 0px;
+     width: 65px;
+     height: 55px;
 }
  .wed-menu{
      float: right;
@@ -1674,6 +1674,7 @@
      background:#fff;
      color:#333;
 }
+
  .item{
 }
  .item img{

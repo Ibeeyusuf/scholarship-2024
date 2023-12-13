@@ -5780,4 +5780,11 @@ html {
          display: none !important;
     }
 }
+@media all screen and (max-width:380px){
+   .carousel-inner{
+    width: 130%;
+    right: 48px;
+   }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
