@@ -3574,7 +3574,7 @@ left: 0;
      line-height: 50px;
 }
  .h-quote {
-     background: url(../images/weather.png);
+    background: #1f4363;
      position: relative;
      overflow: hidden;
      padding:100px 0px 100px 0px;
